@@ -1,2 +1,4 @@
-# testGithub
-create a Repository to learn using githhub
+# JAVA学习记录
+这是在学习Java过程中的笔记，也有个人的理解。
+路漫漫其修远兮
+脚踏实地自会到
