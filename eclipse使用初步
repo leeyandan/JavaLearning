@@ -1,0 +1,6 @@
+1.workspace工作目录，即是默认的工程保存目录
+2.package explorer开发包浏览，就是左边树状的文件管理栏
+3.outline各个class,方法的列表，点击跳转到class或方法头部
+4.src源文件的文件夹，bin可执行文件的文件夹。
+5.双击全屏，双击又缩小回原来
+6.在继承中，可重写的方法添加途径有：点击类名，右键source->Override/Implement Methods
